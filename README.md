@@ -10,5 +10,5 @@ En préambule de cette formation, il est nécessaire que chaque participant fass
 
 1. télécharger le logiciel R à partir du site [__projet R__](https://www.r-project.org/). Les étapes sont clairement expliquées sur la première page du site.
 2. télécharger l'environnement RStudio sur le site de téléchargement de [__RStudio__](https://rstudio.com/products/rstudio/download/). Il faut télécharger la version gratuite de RStudio.
-3. télécharger les packages __tidyverse__, __readxl__, __DataExplorer__, __FactoMineR__, __caret__, __rpart__, __copula__ à l'aide de la fonction `install.packages(c("tidyverse", "readxl", "DataExplorer", "FactoMineR", "caret", "rpart", "copula"))` à écrire dans la console R de RStudio.
+3. télécharger les packages __tidyverse__, __readxl__, __DataExplorer__, __rpart__, __copula__, __reticulate__ à l'aide de la fonction `install.packages(c("tidyverse", "readxl", "DataExplorer", "rpart", "copula", "reticulate"))` à écrire dans la console R de RStudio.
 
